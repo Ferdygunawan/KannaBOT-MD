@@ -3,7 +3,7 @@
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
-// • Allah SWT
+// • ♪𝙺𝚊𝚜𝚞𝚖𝚒♪
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -44,37 +44,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com'
+global.sgh = 'https://github.com'
+global.sgc = 'https://chat.whatsapp.com/HWRHrL3Pwof8gOdoUt57BL'
+global.sdc = 'https://discord.gg'
+global.snh = 'https://nhentai.net'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = '-'
+global.povo = '-'
+global.pgopay = '-'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
+global.nomorbot = '6283840923452'
+global.nomorown = '6289666417148'
 global.namebot = 'Kanna BOT'
 global.nameown = 'Letta - Sama'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6289666417148'],
+  ['6283840923452'],
+  ['6289666417148', '♪𝙺𝚊𝚜𝚞𝚖𝚒♪', true],
+  ['6283840923452', '᯽𝐍𝐞𝐩𝐭𝐮𝐧𝐞-𝐁𝐨𝐭᯽', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.prems = [6289666417148] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
